@@ -7,7 +7,7 @@
 ![Beginner Friendly](https://img.shields.io/badge/Level-Beginner--Friendly-blue.svg)
 
 
-# 🚗 Car Price Prediction
+# 🚗 Car Price Prediction.
 
 ## Overview
 This repository contains an **end-to-end Machine Learning project** focused on predicting the resale price of used cars using historical automotive data. The project demonstrates a structured ML workflow including data preprocessing, exploratory data analysis, feature engineering, model training, and evaluation.
