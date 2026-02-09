@@ -103,6 +103,6 @@ exit
   
  ## Author
 
-Abhay Vishe
+Abhay Vishe.
 
 Aspiring Data Scientist | Machine Learning Enthusiast.
